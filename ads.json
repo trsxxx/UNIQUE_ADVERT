@@ -3,6 +3,8 @@
   "ads": [
     {
       "id": "ad_001",
+      "title": "UBT LABS - ваш проводник в трафике",
+      "description": "вау",
       "image_url": "https://github.com/trsxxx/UNIQUE_ADVERT/blob/main/photo_2026-01-30_19-33-40.jpg",
       "link": "https://t.me/ubtlabs",
       "skip_after": 5,
@@ -11,5 +13,6 @@
     }
   ]
 }
+
 
 
